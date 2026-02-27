@@ -1,0 +1,19 @@
+# ===== 数据 =====
+data/
+
+# ===== 训练输出 =====
+ner_model/
+checkpoints/
+*.pt
+*.bin
+*.ckpt
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+
+# ===== 编辑器 =====
+.vscode/
+
+# ===== 其他 =====
+*.log
